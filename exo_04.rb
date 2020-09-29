@@ -1,0 +1,2 @@
+puts "Salut, ça farte ?"
+# Comme les guillemets ne sont pas fermées dans l'exercice le programme se lance mais avec le mot "puts" avant Salut, ca farte, nous pensons que la fonction des guillemets est de baliser le contenu texte. 
